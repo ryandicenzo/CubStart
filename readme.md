@@ -3,7 +3,7 @@
 ## Git 101
 - Git tutorials
   - Git tutorial (see infographic): https://www.codingdojo.com/blog/git-tutorial-for-beginners/
-  - Simple setup and workflow: http://rogerdudler.github.io/git-guide/
+  - Simple setup and commands (does not include conceptual background): http://rogerdudler.github.io/git-guide/
 - Brendon's tutorial
   - Setting up git: https://help.github.com/articles/set-up-git/
   - Adding our GitHub repository to your computer: https://help.github.com/articles/adding-a-remote/
@@ -15,3 +15,4 @@
     - Use git push to upload changes to GitHub 
     - Use git pull to add everyone else's changes to your computer
     - A readme.md file in the project's root directory is automatically displayed on GitHub
+      - readme.md files are typically written in Markdown, a structured way to write text
