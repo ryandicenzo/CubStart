@@ -12,7 +12,9 @@
     - Use git commit -m "Add your message here"
       - Please use a capitalized verb when writing commit messages, keep it short, and omit periods
       - Follow commit message guidelines: https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
-    - Use git push to upload changes to GitHub 
+    - Use git push to upload changes to GitHub
     - Use git pull to add everyone else's changes to your computer
     - A readme.md file in the project's root directory is automatically displayed on GitHub
       - readme.md files are typically written in Markdown, a structured way to write text
+    - Branches
+      - in git branches enable people to use several different coding platforms accessing same sequence in code
