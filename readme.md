@@ -1,5 +1,4 @@
-# CubStart Team 3: Proximity-Based Profile Sharing
-
+s
 ## Git 101
 - Git tutorials
   - Git tutorial (see infographic): https://www.codingdojo.com/blog/git-tutorial-for-beginners/
@@ -18,5 +17,8 @@
       - readme.md files are typically written in Markdown, a structured way to write text
     - Branches
       - in git branches enable people to use several different coding platforms accessing same sequence in code
+      - to create a branch, type git branch <name of branch> and then git branch
+      - git status will tell you what branch you're on
+      -  
   - Github has two main areas:
       - Master and Develop
