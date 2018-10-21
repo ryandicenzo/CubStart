@@ -18,3 +18,5 @@
       - readme.md files are typically written in Markdown, a structured way to write text
     - Branches
       - in git branches enable people to use several different coding platforms accessing same sequence in code
+  - Github has two main areas:
+      - Master and Develop
