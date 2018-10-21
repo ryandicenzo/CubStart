@@ -1,4 +1,5 @@
-s
+# CubStart Team 3
+
 ## Git 101
 - Git tutorials
   - Git tutorial (see infographic): https://www.codingdojo.com/blog/git-tutorial-for-beginners/
